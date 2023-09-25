@@ -1,0 +1,35 @@
+Chocolate bars:
+Snickers
+Kit Kat
+Milky Way
+Twix
+Hershey's Milk Chocolate
+Gummy candies:
+
+Gummy bears
+Gummy worms
+Sour Patch Kids
+Swedish Fish
+Haribo Gold-Bears
+Hard candies:
+
+Jolly Ranchers
+Life Savers
+Werther's Original
+Atomic Fireballs
+Lemonheads
+Chewy candies:
+
+Starburst
+Tootsie Rolls
+Now and Later
+Hi-Chew
+Laffy Taffy
+Licorice candies:
+
+Twizzlers
+Red Vines
+Good & Plenty
+
+
+test choco
